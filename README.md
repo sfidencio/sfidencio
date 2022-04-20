@@ -3,13 +3,14 @@
 
 
 - 🔭 Atualmente estou trabalhando como desenvolvedor JAVA, com carreira em ascensão...
-
+- 🌱 Apesar de não ser iniciante em JAVA, devido experiência com stack mais antiga (Java7/8, JSF, Primefaces, PostgreSQL, MySQL, Linux/BSD's, HTML/CSS básico), desde 2020 venho estudando arquiteturas REST, e aplicando na prática com uso do SpringBoot na plataforma e linguagem JAVA. Atualmente estou aprofundando o estudo da linguagem JAVA, O.O, Design de API's RestFull, TDD, BDD, cobertura de código e etc. Na sequência, vou aprofundar no estudo de microserviços, focado em arquiteturas mais robustas, envolvendo "Mensageria", e programação reativa, por exemplo o uso do Spring WebFlux para atender requisitos de negócios que exige escalabilidade e performance dos microserviços.
+- 
 <!--
 **sfidencio/sfidencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

@@ -1,4 +1,4 @@
-## Olá me chamo Sebastião Fidêncio 👋
+## Olá Dev's, me chamo Sebastião Fidêncio 👋
 ### Bem Vindo ao meu perfil no GITHUB!
 <!--
 **sfidencio/sfidencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

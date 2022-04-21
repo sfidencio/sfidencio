@@ -2,10 +2,10 @@
 ### Bem Vindo ao meu perfil no GITHUB!
 
 
-- 🔭 Atualmente estou trabalhando como desenvolvedor JAVA, com carreira em ascensão, e com foco bem definido, sei exatamente onde quero chegar!
+- 🔭 Trabalho como desenvolvedor JAVA desde 2019, com uma carreira em ascensão, e com foco bem definido, sei exatamente onde quero chegar!
 
 - 🌱 Atualmente estou aprofundando o estudo na linguagem JAVA8+, O.O, Design de API's RestFull, TDD, BDD, cobertura de código e etc. Na sequência, vou aprofundar no estudo dos seguintes tópicos, que já estão no meu "radar": 
-
+   - The Best Praticies
    - Design Patterns
    - Microservices vs Monolithic
    - Clean Arch

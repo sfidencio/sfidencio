@@ -13,7 +13,7 @@
    - Domain Driven Design
    - Devops (CI/DC, Monitoring, Kubernetes, Docker e outras coisas mais) 
    - Meu foco é o backend a princípio, mas quando exaurir o necessário e mais um pouco, irei estudar mais o frontend.
-   - Tem como meta ser um FullCycle Development.
+   - Tenho como meta ser um FullCycle Development.
 
 - 📫 Como chegar até mim: sfidencio@gmail
 - 😄 Pronomes: Você...

@@ -14,7 +14,7 @@
    - New Languagens of Programation -> GoLang, Clojure e etc
    - Devops (CI/CD, Monitoring, Kubernetes, Docker e outras coisas mais) 
    - Meu foco é o backend a princípio, mas quando exaurir o necessário e mais um pouco, irei estudar mais o frontend.
-   - Tenho como meta ser um FullCycle Development.
+   - Tenho como meta ser um FullCycle Development, de modo profissional, pois de forma mediana, já considero, uma vez que já desenvolvi aplicação de ponta a ponta, com frontend em Android, Angular e backend em JAVA/SpringBoot, e também fiz a infra, instalação, configuração e deploy da aplicação em servidores linux. 
 
 - 📫 Como chegar até mim: sfidencio@gmail
 - 😄 Pronomes: Você...

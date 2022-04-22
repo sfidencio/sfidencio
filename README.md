@@ -11,6 +11,7 @@
    - Clean Arch
    - Solid
    - Domain Driven Design
+   - New Languagens of Programation -> GoLang, Clojure e etc
    - Devops (CI/DC, Monitoring, Kubernetes, Docker e outras coisas mais) 
    - Meu foco é o backend a princípio, mas quando exaurir o necessário e mais um pouco, irei estudar mais o frontend.
    - Tenho como meta ser um FullCycle Development.

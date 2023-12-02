@@ -48,8 +48,8 @@
    - Domain Driven Design
    - New Languagens of Programation -> GoLang, Clojure e etc
    - Devops (CI/CD, Monitoring, Kubernetes, Docker e outras coisas mais) 
-   - Meu foco é o backend a princípio, mas quando exaurir o necessário e mais um pouco, irei estudar mais o frontend.
-   - Tenho como meta ser um FullCycle Development.d
+   - Meu foco é o backend a princípio, mas tenho me "virado nos 30" quando preciso mexer em algo no front.
+   - Sou a adepto a cultura FullCycle, que o dev tem que ver o código nascer, crescer e acompanha-lo, afinal, código e igual leite, estando "parado" estraga, precisa de cuidados.
    - Cloud Computing 
    - ChatGPT
 

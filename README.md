@@ -49,7 +49,7 @@
    - New Languagens of Programation -> GoLang, Clojure e etc
    - Devops (CI/CD, Monitoring, Kubernetes, Docker e outras coisas mais) 
    - Meu foco é o backend a princípio, mas tenho me "virado nos 30" quando preciso mexer em algo no front.
-   - Sou a adepto a cultura FullCycle, que o dev tem que ver o código nascer, crescer e acompanha-lo, afinal, código e igual leite, estando "parado" estraga, precisa de cuidados.
+   - Sou adepto a cultura FullCycle, que o dev tem que ver o código nascer, crescer e acompanha-lo, afinal, código e igual leite, estando "parado" estraga, precisa de cuidados.
    - Cloud Computing 
    - ChatGPT
 

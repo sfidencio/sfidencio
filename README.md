@@ -37,7 +37,7 @@
 
 
 
-- 🔭 Trabalho com TI profissionalmente desde 2005, onde atuei por longos anos na area de infraestrutura de TI(Linux,Redes e etc) e tambem estudava JAVA e C# na epoca tambem, contudo a partir de 2018, iniciei o processo de transicao para area de desenvolvimento, atuando como "Sofware Developer".
+- 🔭 Trabalho com TI profissionalmente desde 2005, onde atuei por longos anos na área de infraestrutura de TI(Linux,Redes e etc) e tambem estudava JAVA e C# na época tambem, contudo a partir de 2018, iniciei o processo de transicão para area de desenvolvimento.
 
 - 🌱 Atualmente trabalho com a plataforma JAVA, aplicando os conceitos de  O.O, Design de API's RestFull, TDD, BDD, cobertura de código e etc. Tenho focado ultimamente nos assuntos abaixo: 
    - The Best Praticies
@@ -49,7 +49,7 @@
    - New Languagens of Programation -> GoLang, Clojure e etc
    - Devops (CI/CD, Monitoring, Kubernetes, Docker e outras coisas mais) 
    - Meu foco é o backend a princípio, mas tenho me "virado nos 30" quando preciso mexer em algo no front, visto que sou da velha guarda, trabalhei com JSF/Primefaces/SpringMVC, e nesse tipo de abordagem, sabemos que quem processa ou renderiza o codigo do "client" e o servidor, ou seja, "ServerSide".
-   - Sou adepto da cultura FullCycle, onde o dev tem que ver o código  ou "filho" nascer, crescer e poder acompanha-lo por um tempo. A proposito, quem estuda engenharia de software sabe que código e igual leite, estando "parado" estraga, precisa de cuidados.
+   - Sou adepto da cultura FullCycle, onde o dev tem que ver o código  ou "filho" nascer, crescer e poder acompanhá-lo por um tempo. A propósito, quem estuda engenharia de software sabe que código é igual leite, estando "parado" estraga, precisa de cuidados.
    - Cloud Computing 
    - ChatGPT
 

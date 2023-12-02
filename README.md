@@ -48,7 +48,7 @@
    - Domain Driven Design
    - New Languagens of Programation -> GoLang, Clojure e etc
    - Devops (CI/CD, Monitoring, Kubernetes, Docker e outras coisas mais) 
-   - Meu foco é o backend a princípio, mas tenho me "virado nos 30" quando preciso mexer em algo no front, visto que sou da velha guarda, trabalhei com JSF/Primefaces/SpringMVC, e nesse tipo de abordagem, sabemos que quem processa ou renderiza o codigo do "client" e o servidor, ou seja, "ServerSide".
+   - Meu foco atualmente é o backend a princípio, mas tenho me "virado nos 30" quando preciso mexer em algo no front, pois já trabalhei com angular e com JSF/Primefaces.
    - Sou adepto da cultura FullCycle, onde o dev tem que ver o código  ou "filho" nascer, crescer e poder acompanhá-lo por um tempo. A propósito, quem estuda engenharia de software sabe que código é igual leite, estando "parado" estraga, precisa de cuidados.
    - Cloud Computing 
    - ChatGPT

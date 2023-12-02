@@ -1,7 +1,7 @@
 ## Olá Dev's, me chamo "Sebastião Fidêncio" 👋 e o meu apelido é "fidencio"!
 ### Bem Vindo ao meu perfil no GITHUB!
 
->![!TIP]
+>[!TIP]
 > Tecnologias
 
  **Java**: 

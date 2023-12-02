@@ -11,10 +11,11 @@
   [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=hhttps://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer) 
   [![XML](https://img.shields.io/badge/-XML-orange?style=flat&logo=xml&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
   [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
+  ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
 
 
-- 🔭 Trabalho com TI profissionalmente desde 2005, onde atuei por longos anos na area de infraestrutura de TI(Linux,Redes e etc), e apartir de 2018, iniciei o processo de transicao para area de desenvolvimento, atuando como "Sofware Developer".
+- 🔭 Trabalho com TI profissionalmente desde 2005, onde atuei por longos anos na area de infraestrutura de TI(Linux,Redes e etc), e a partir de 2018, iniciei o processo de transicao para area de desenvolvimento, atuando como "Sofware Developer".
 
 - 🌱 Atualmente trabalho com a plataforma JAVA, aplicando os conceitos de  O.O, Design de API's RestFull, TDD, BDD, cobertura de código e etc. Tenho focado ultimamente nos assuntos abaixo: 
    - The Best Praticies

@@ -1,10 +1,22 @@
 ## Olá Dev's, me chamo "Sebastião Fidêncio" 👋 e o meu apelido é "fidencio"!
 ### Bem Vindo ao meu perfil no GITHUB!
 
+>![!TIP]
+> Tecnologias
 
-- 🔭 Trabalho como desenvolvedor JAVA desde 2019, com uma carreira em ascensão, e com foco bem definido, sei exatamente onde quero chegar. Anteriormente atuei na área de infraestrutura de TI, servidores windows, linux e bsd's. Basta olhar meu CV que verão meu passado de suporte técnico, contudo, sempre que sobrava um tempo eu estava estudando C# ou java.
+ **Java**: 
+  [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer)](https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer) 
+  [![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
+  [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
+  [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=hhttps://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer) 
+  [![XML](https://img.shields.io/badge/-XML-orange?style=flat&logo=xml&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
+  [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
 
-- 🌱 Atualmente estou aprofundando o estudo na linguagem JAVA8+, O.O, Design de API's RestFull, TDD, BDD, cobertura de código e etc. Na sequência, vou aprofundar no estudo dos seguintes tópicos, que já estão no meu "radar": 
+
+
+- 🔭 Trabalho com TI profissionalmente desde 2005, onde atuei por longos anos na area de infraestrutura de TI(Linux,Redes e etc), e apartir de 2018, iniciei o processo de transicao para area de desenvolvimento, atuando como "Sofware Developer".
+
+- 🌱 Atualmente trabalho com a plataforma JAVA, aplicando os conceitos de  O.O, Design de API's RestFull, TDD, BDD, cobertura de código e etc. Tenho focado ultimamente nos assuntos abaixo: 
    - The Best Praticies
    - Design Patterns
    - Microservices vs Monolithic
@@ -14,9 +26,11 @@
    - New Languagens of Programation -> GoLang, Clojure e etc
    - Devops (CI/CD, Monitoring, Kubernetes, Docker e outras coisas mais) 
    - Meu foco é o backend a princípio, mas quando exaurir o necessário e mais um pouco, irei estudar mais o frontend.
-   - Tenho como meta ser um FullCycle Development, de modo profissional, pois de forma mediana, já considero que sou, uma vez que já desenvolvi aplicação de ponta a ponta, com frontend em Android, Angular e backend em JAVA/SpringBoot, e também fiz a infra, instalação, configuração e deploy da aplicação no linux, tanto em datacenter local quanto na cloud (IaaS / infra como serviço) da DigitalOcean. 
+   - Tenho como meta ser um FullCycle Development.d
+   - Cloud Computing 
+   - ChatGPT
 
-- 📫 Como chegar até mim: sfidencio@gmail
+- 📫 Como chegar até mim: sfidencio@gmail.com
 - 😄 Pronomes: Você...
 
 <div>

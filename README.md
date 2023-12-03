@@ -37,7 +37,7 @@
 
 
 
-- 🔭 Trabalho com TI profissionalmente desde 2005, onde atuei por longos anos na área de infraestrutura de TI(Linux,Redes e etc) e tambem estudava JAVA e C# na época tambem, contudo a partir de 2018, iniciei o processo de transicão para area de desenvolvimento.
+- 🔭 Trabalho com TI profissionalmente desde 2005, onde atuei por longos anos na área de infraestrutura de TI(Linux,Redes e etc) e tambem estudava JAVA e C# na época tambem, contudo a partir de 2018/2019, iniciei o processo de transicão para area de desenvolvimento.
 
 - 🌱 Atualmente trabalho com a plataforma JAVA, aplicando os conceitos de  O.O, Design de API's RestFull, TDD, BDD, cobertura de código e etc. Tenho focado ultimamente nos assuntos abaixo: 
    - The Best Praticies

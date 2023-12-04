@@ -44,11 +44,12 @@
    - Design Patterns
    - Microservices vs Monolithic
    - Clean Arch
+   - Clean Code
    - Solid
    - Domain Driven Design
-   - New Languagens of Programation -> GoLang, Clojure e etc
+   - Novas Linguagens -> GoLang, Clojure, Kotlin e etc
    - Devops (CI/CD, Monitoring, Kubernetes, Docker e outras coisas mais) 
-   - Meu foco atualmente é o backend a princípio, mas tenho me "virado nos 30" quando preciso mexer em algo no front, pois já trabalhei com angular e com JSF/Primefaces.
+   - Meu foco atualmente é o backend, todavia tenho me "virado nos 30" quando preciso mexer em algo no front, pois já trabalhei com angular e com JSF/Primefaces.
    - Sou adepto da cultura FullCycle, onde o dev tem que ver o código  ou "filho" nascer, crescer e poder acompanhá-lo por um tempo. A propósito, quem estuda engenharia de software sabe que código é igual leite, estando "parado" estraga, precisa de cuidados.
    - Cloud Computing 
    - ChatGPT

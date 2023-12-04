@@ -48,7 +48,7 @@
    - Solid
    - Domain Driven Design
    - Novas Linguagens -> GoLang, Clojure, Kotlin e etc
-   - Devops (CI/CD, Monitoring, Kubernetes, Docker e outras coisas mais) 
+   - Devops (CI/CD, Monitoring, Kubernetes, Linux, Docker e outras coisas mais) 
    - Meu foco atualmente é o backend, todavia tenho me "virado nos 30" quando preciso mexer em algo no front, pois já trabalhei com angular e com JSF/Primefaces.
    - Sou adepto da cultura FullCycle, onde o dev tem que ver o código  ou "filho" nascer, crescer e poder acompanhá-lo por um tempo. A propósito, quem estuda engenharia de software sabe que código é igual leite, estando "parado" estraga, precisa de cuidados.
    - Cloud Computing 

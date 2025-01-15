@@ -34,23 +34,17 @@
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-
-
-
-- 🔭 Trabalho com TI profissionalmente desde 2005, onde atuei por longos anos na área de infraestrutura de TI(Linux,Redes e etc) e tambem estudava JAVA e C# na época tambem, contudo a partir de 2018/2019, iniciei o processo de transicão para area de desenvolvimento.
-
-- 🌱 Atualmente trabalho com a plataforma JAVA, aplicando os conceitos de  O.O, Design de API's RestFull, TDD, BDD, cobertura de código e etc. Tenho focado os estudos ultimamente nos assuntos abaixo: 
+- 🌱 Atualmente trabalho com as tecnologias e boas práticas de engenharia de software:
    - The Best Praticies
+   - TDD, BDD
    - Design Patterns
    - Microservices vs Monolithic
    - Clean Arch
    - Clean Code
    - Solid
    - Domain Driven Design
-   - Novas Linguagens -> GoLang, Clojure, Kotlin e etc
    - Devops (CI/CD, Monitoring, Kubernetes, Linux, Docker e outras coisas mais) 
-   - Meu foco atualmente é o backend, todavia tenho me "virado nos 30" quando preciso mexer em algo no front, pois já trabalhei com angular e com JSF/Primefaces.
-   - Sou adepto da cultura FullCycle, onde o dev tem que ver o código nascer, crescer e poder acompanhá-lo por um tempo. A propósito, quem estuda engenharia de software sabe que código é igual leite, estraga com passar do tempo, portanto precisa de cuidados.
+   - Conhecimentos de Front-Web com anguar e mobile android
    - Cloud Computing 
    - ChatGPT
 

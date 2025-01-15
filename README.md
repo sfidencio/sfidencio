@@ -35,7 +35,6 @@
 
 
 - 🌱 Atualmente trabalho com as tecnologias e boas práticas de engenharia de software:
-   - The Best Praticies
    - TDD, BDD
    - Design Patterns
    - Microservices vs Monolithic
